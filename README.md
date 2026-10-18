@@ -12,7 +12,7 @@
 5. [SQL Analysis & Business Questions](#-sql-analysis--business-questions)
 6. [Key Insights & Findings](#-key-insights--findings)
 7. [Visualizations](#-visualizations)
-8. ![Netflix_Titles Preview]("C:\Users\Yogesh Kumar\OneDrive\Pictures\Netflix_Titles_Dashboard.png")
+8. ![Netflix_Titles Preview]("F:\Netflix_Titles_Dashboard.png")
 9. [Conclusion & Future Scope](#-conclusion--future-scope)
 
 ---
