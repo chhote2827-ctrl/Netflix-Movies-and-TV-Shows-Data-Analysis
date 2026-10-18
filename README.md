@@ -1,4 +1,4 @@
-# 🎬 Netflix Movies and TV Shows Data Analysis
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/82fb3c4e-7e64-4baa-a25e-6d6a33926f89" /># 🎬 Netflix Movies and TV Shows Data Analysis
 
 > **An End-to-End Data Analysis project exploring Netflix content catalogs using Python, PostgreSQL, and data visualization techniques to uncover business insights.**
 
@@ -12,7 +12,8 @@
 5. [SQL Analysis & Business Questions](#-sql-analysis--business-questions)
 6. [Key Insights & Findings](#-key-insights--findings)
 7. [Visualizations](#-visualizations)
-8. [Conclusion & Future Scope](#-conclusion--future-scope)
+8. ![Netflix_Titles Preview]("C:\Users\Yogesh Kumar\OneDrive\Pictures\Netflix_Titles_Dashboard.png")
+9. [Conclusion & Future Scope](#-conclusion--future-scope)
 
 ---
 
