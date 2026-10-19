@@ -1,3 +1,6 @@
+# 📊 Dashboard Preview
+![Netflix Data Analysis Dashboard](netflix_dashboard.png)
+
 # 🎬 Netflix Movies and TV Shows Data Analysis
 
 > **An End-to-End Data Analysis project exploring Netflix content catalogs using Python, PostgreSQL, and data visualization techniques to uncover business insights.**
@@ -12,11 +15,7 @@
 5. [SQL Analysis & Business Questions](#-sql-analysis--business-questions)
 6. [Key Insights & Findings](#-key-insights--findings)
 7. [Visualizations](#-visualizations)
-
-# 📊 Dashboard Preview
-![Netflix Dashboard Preview](Screenshot%202026-10-18%20214851.png))
-
-9. [Conclusion & Future Scope](#-conclusion--future-scope)
+8. [Conclusion & Future Scope](#-conclusion--future-scope)
 
 ---
 
