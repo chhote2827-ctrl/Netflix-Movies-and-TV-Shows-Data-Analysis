@@ -14,7 +14,7 @@
 7. [Visualizations](#-visualizations)
 
 # 📊 Dashboard Preview
-![Netflix Dashboard Preview](Netflix_Titles_Dashboard.png)
+![Netflix Dashboard Preview]()
 
 9. [Conclusion & Future Scope](#-conclusion--future-scope)
 
