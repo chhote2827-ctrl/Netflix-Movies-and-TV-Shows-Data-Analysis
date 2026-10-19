@@ -12,7 +12,10 @@
 5. [SQL Analysis & Business Questions](#-sql-analysis--business-questions)
 6. [Key Insights & Findings](#-key-insights--findings)
 7. [Visualizations](#-visualizations)
-8. ![Netflix_Titles Preview](Screenshot 2026-10-18 214851.png)
+
+# 📊 Dashboard Preview
+![Netflix Dashboard Preview](Netflix_Titles_Dashboard.png)
+
 9. [Conclusion & Future Scope](#-conclusion--future-scope)
 
 ---
