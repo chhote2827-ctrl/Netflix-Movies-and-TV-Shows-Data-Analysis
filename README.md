@@ -1,5 +1,5 @@
 # 📊 Dashboard Preview
-![Netflix Data Analysis Dashboard](netflix_dashboard.png)
+![Netflix Data Analysis Dashboard](Screenshot%202026-10-19%20155153.png)
 
 # 🎬 Netflix Movies and TV Shows Data Analysis
 
