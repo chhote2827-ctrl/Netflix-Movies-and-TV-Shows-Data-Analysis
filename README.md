@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/82fb3c4e-7e64-4baa-a25e-6d6a33926f89" /># 🎬 Netflix Movies and TV Shows Data Analysis
+# 🎬 Netflix Movies and TV Shows Data Analysis
 
 > **An End-to-End Data Analysis project exploring Netflix content catalogs using Python, PostgreSQL, and data visualization techniques to uncover business insights.**
 
