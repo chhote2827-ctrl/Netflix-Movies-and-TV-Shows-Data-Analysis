@@ -13,9 +13,6 @@
 6. [Key Insights & Findings](#-key-insights--findings)
 7. [Visualizations](#-visualizations)
 
-# 📊 Dashboard Preview
-![Netflix Dashboard Preview]()
-
 9. [Conclusion & Future Scope](#-conclusion--future-scope)
 
 ---
